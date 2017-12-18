@@ -1,0 +1,16 @@
+The Complete Ruby on Rails Developer Course
+https://www.udemy.com/the-complete-ruby-on-rails-developer-course/
+___________________________________________________________________
+INTRO AND SETUP
+
+Set default version of Ruby:
+    rvm --default use ruby-2.3.4
+
+
+Install Rails version:
+    gem install rails -v 4.2.5
+
+Start server:
+    rails s -b $IP -p $PORT
+    Link is under share -> application
+    DO NOT RUN PROJECT!
